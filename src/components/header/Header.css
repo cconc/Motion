@@ -12,13 +12,20 @@
 .Header-header {
   background-color: #4285F4;
   height: 50px;
-  padding: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .Header-welcome{
   text-align: right;
-  width: 100%;
-  margin-top: 2.25%;
-  font-size:0.8rem;
+  font-size: 0.65rem;
   font-style: italic;
+  padding-left: 71%;
+}
+
+.Header-routes{
+  text-align: left;
+  margin-left: 35%;
+  margin-top: 2%;
 }
